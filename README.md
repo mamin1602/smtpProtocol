@@ -1,1 +1,1 @@
-# smtpProtocol
+This is a simple program designed to explore smtp protocols using pythoon. The program is designed to open a client socket and establish a tcp connection with the local smtp server and port. Afterwards, the code will send a few commands and print server responses.
